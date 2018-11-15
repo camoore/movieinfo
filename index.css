@@ -1,0 +1,16 @@
+#movies img #movie img{
+  width:100%;
+}
+
+@media (min-width:768px){
+  #movies .col-md-3 {
+    height: 410px;
+    padding: 2px 2px 2px 2px;
+  }
+  #movies .jumbotron {
+    height: 400px;
+  }
+  #movies .col-md-3 img{
+    height:220px;
+  }
+}
